@@ -30,3 +30,5 @@ Make sure you have Python installed on your machine. You can download it from [p
    ```bash
    git clone https://github.com/yourusername/aryans-shop.git
    cd aryans-shop
+![image](https://github.com/user-attachments/assets/6f3750cb-1473-4dfe-9773-6d0d497ffd29)
+
