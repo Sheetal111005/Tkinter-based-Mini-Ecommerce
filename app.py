@@ -23,7 +23,7 @@ file.close()
 
 
 root = Tk()
-root.title("Aryans Shop")
+root.title("Sheetal Shop")
 root.minsize(800, 500)
 root.configure(bg="#f5f5f5")
 
