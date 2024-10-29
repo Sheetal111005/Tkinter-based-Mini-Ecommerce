@@ -1,6 +1,6 @@
-# Aryan's Shop
+# Sheetal's Shop
 
-Aryan's Shop is a simple inventory and shopping management application built using Python's Tkinter library. It allows users to view products, manage an admin panel for product management, and add items to their cart. This application supports functionalities like product addition, deletion, and order viewing.
+Sheetal's Shop is a simple inventory and shopping management application built using Python's Tkinter library. It allows users to view products, manage an admin panel for product management, and add items to their cart. This application supports functionalities like product addition, deletion, and order viewing.
 
 ## Features
 
