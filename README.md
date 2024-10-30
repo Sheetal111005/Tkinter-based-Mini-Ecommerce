@@ -28,7 +28,6 @@ Make sure you have Python installed on your machine. You can download it from [p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aryans-shop.git
-   cd aryans-shop
+   git clone https://github.com/Sheetal111005/Tkinter-based-Mini-Ecommerce/
 ![image](https://github.com/user-attachments/assets/6f3750cb-1473-4dfe-9773-6d0d497ffd29)
 
